@@ -1,16 +1,21 @@
 _repo: The-Adventures-of-Squirrel-Fluffytail-A-Picture-Story-Book-for-Children_51994
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bennett, Ruth H.
     gutenberg_agent_id: '46624'
     url: http://www.gutenberg.org/2009/agents/46624
+covers:
+- cover_type: archival
+  image_path: 51994-h/images/cover.jpg
 creator:
   author:
     agent_name: McKenna, Dolores
     gutenberg_agent_id: '46623'
     url: http://www.gutenberg.org/2009/agents/46623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51994#The-Adventures-of-Squirrel-Fluffytail-A-Picture-Story-Book-for-Children
 gutenberg_issued: '2016-05-03'
 gutenberg_type: Text
 identifiers:
